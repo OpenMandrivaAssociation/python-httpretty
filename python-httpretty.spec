@@ -1,6 +1,6 @@
 Name:		python-httpretty
 Version:	1.1.4
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/h/httpretty/httpretty-%{version}.tar.gz
 Summary:	HTTP client mock for Python
 URL:		https://pypi.org/project/httpretty/
